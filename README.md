@@ -9,10 +9,10 @@ Django Task - RestApi
 A small system which shows the working of the api
 gets the data from the database and returns in JSON response.
 
-http://127.0.0.1:8000/api/user/register/
-http://127.0.0.1:8000/api/user/login/
-http://127.0.0.1:8000/api/user/profile/
-http://127.0.0.1:8000/api/user/changepassword/
+http://127.0.0.1:8000/api/user/register/ <br>
+http://127.0.0.1:8000/api/user/login/ <br>
+http://127.0.0.1:8000/api/user/profile/ <br>
+http://127.0.0.1:8000/api/user/changepassword/ <br>
 
 Note : Please use virtual env and install the requiemrents.txt file before running the project
 
