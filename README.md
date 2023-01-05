@@ -13,6 +13,8 @@ http://127.0.0.1:8000/api/user/register/ <br>
 http://127.0.0.1:8000/api/user/login/ <br>
 http://127.0.0.1:8000/api/user/profile/ <br>
 http://127.0.0.1:8000/api/user/changepassword/ <br>
+http://127.0.0.1:8000/api/user/send-reset-password-email/ <br>
+http://127.0.0.1:8000/api/user/reset-password/<uid>/<token>// <br>
 
 Note : Please use virtual env and install the requiemrents.txt file before running the project
 
